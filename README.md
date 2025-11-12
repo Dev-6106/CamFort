@@ -99,7 +99,7 @@ The system follows **OOP principles** for modularity and maintainability.
 ## Screenshots
 
 ### Input:
-<img width="598" height="477" alt="image" src="https://github.com/user-attachments/assets/7cde82a3-6187-4195-9ad4-bdba190c3a2e" />
+<img width="616" height="497" alt="image" src="https://github.com/user-attachments/assets/c24e22ce-0ef9-4ba2-b80d-860bb46c0dae" />
 
 ### Output:
 <img width="703" height="157" alt="image" src="https://github.com/user-attachments/assets/5c1eb486-75fe-4616-8a6a-a48043f1f66c" />
